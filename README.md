@@ -35,6 +35,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated.
 
 ## Deployed link 
+https://myleen12.github.io/team-info/
 
 ## Video Walk Through 
 https://drive.google.com/file/d/1zlZFBZ8rKA4PBljyAr8jI3wcQqPHWE9n/view
