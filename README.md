@@ -37,9 +37,9 @@ THEN I exit the application, and the HTML is generated.
 ## Deployed link 
 
 ## Video Walk Through 
-
+https://drive.google.com/file/d/1zlZFBZ8rKA4PBljyAr8jI3wcQqPHWE9n/view
 
 
 ## ScreenShot
-![]().
+![My Team](./assets/image/myteam.png).
 
